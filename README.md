@@ -60,10 +60,13 @@
 |10월 4일|게임 오버 ui를 완성했다. 자동차를 클릭해야 잡히게 바꿨다. 자동차를 잡았을 때 약간 아래로 내려가는 현상을 수정했다. 자동차 각도에 따라 장애물이 따라오지 못하는 경우를 수정했다. 자동차를 뒤로 당기는 정도에 따라 자동차의 속도가 달라지도록 수정했다|
 
 ## 과거 제작 게임 소개
+<img width="990" height="554" alt="image" src="https://github.com/user-attachments/assets/2eccbbed-64ab-4e36-b2ed-542114e0f34a" />
+<img width="989" height="556" alt="image" src="https://github.com/user-attachments/assets/52d4a3fa-f8f7-4657-8cad-47b53aa80ad9" />
+
+이 엔트리로 제작된 게임 [리듬테일]은 두개의 블록을 스페이스바로 조작해 음표들을 부수는 리듬 게임입니다.
+
 - [유튜브 영상 링크](https://www.youtube.com/watch?v=MMYQhfFphus)
 - [플레이링크](https://playentry.org/project/6869e9c5420db635281e21ad)
 
-이 엔트리로 제작된 게임 [리듬테일]은 두개의 블록을 스페이스바로 조작해 음표들을 부수는 리듬 게임입니다.
-<img width="990" height="554" alt="image" src="https://github.com/user-attachments/assets/2eccbbed-64ab-4e36-b2ed-542114e0f34a" />
-<img width="989" height="556" alt="image" src="https://github.com/user-attachments/assets/52d4a3fa-f8f7-4657-8cad-47b53aa80ad9" />
+
 
