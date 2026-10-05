@@ -71,7 +71,12 @@
 <img width="990" height="554" alt="image" src="https://github.com/user-attachments/assets/2eccbbed-64ab-4e36-b2ed-542114e0f34a" />
 <img width="989" height="556" alt="image" src="https://github.com/user-attachments/assets/52d4a3fa-f8f7-4657-8cad-47b53aa80ad9" />
 
-이 엔트리로 제작된 게임 [리듬테일]은 두개의 블록을 스페이스바로 조작해 음표들을 부수는 리듬 게임입니다.
+- 이 엔트리로 제작된 게임 [리듬테일]은 두개의 블록을 스페이스바로 조작해 음표들을 부수는 리듬 게임입니다.
+- 게임이 시작되면 3개의 곡 중 하나를 선택 가능하며 유명한 곡들을 픽셀로 리믹스한 BGM으로 게임을 플레이 할 수 있습니다.
+- 음표가 내려오고 그에 맞춰서 블록을 조작하면 음표의 정확도에 따라 낫 굿, 굿, 퍼펙트로 정확도가 나오며 이에 따라 오른쪽 게이지가 차게 됩니다.
+- 게이지는 게임이 끝난 후 방출하며 게이지의 양에 따라 최종 점수가 결정됩니다.
+- 마지막으로 스코어보드에서 자신의 점수가 어느정도인지 확인 할 수 있습니다.
+- 원래는 이 게임으로 지원하려 했으나 기본적으로 유니티를 활용해서 게임을 만들어야한다고 들어서 다시 게임을 제작하게 되었습니다.
 
 - [유튜브 영상 링크](https://www.youtube.com/watch?v=MMYQhfFphus)
 - [플레이링크](https://playentry.org/project/6869e9c5420db635281e21ad)
