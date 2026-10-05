@@ -1,5 +1,8 @@
 ## 태엽 레이서 소개
-- 태엽 레이서는 장난감 자동차를 당겨 장애물들을 피해 최대한 멀리 가야하는 아케이드 게임입니다.
+- 태엽 레이서는 장난감 자동차를 당겨 장애물들을 피해 최대한 멀리 가야하는 미니 아케이드 게임입니다.
+- 아버지의 아이디어에 따라 태엽 자동차를 컨셉으로 하는 게임을 기획하고 개발을 시작했습니다.
+- 일러스트는 ai를 활용해서 제작했고, BGM 및 사운드는 고전 게임에서 가져왔습니다.
+- 단순한 조작으로 누구나 쉽게 즐길 수 있는 순수한 재미 요소에 중점을 두었습니다.
 - [유튜브 영상 링크](https://youtu.be/F05No69Qmz0)
 <img width="380" height="676" alt="image" src="https://github.com/user-attachments/assets/706c2ed5-eb06-4485-ad29-88475d3a55b1" />
 <img width="380" height="676" alt="image" src="https://github.com/user-attachments/assets/e1606a53-20de-41f2-b6de-a2bd6a8afa81" />
