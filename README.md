@@ -1,6 +1,8 @@
 ## 태엽 레이서 소개
 - [유튜브 영상 링크](https://youtu.be/F05No69Qmz0)
 <img width="380" height="676" alt="image" src="https://github.com/user-attachments/assets/706c2ed5-eb06-4485-ad29-88475d3a55b1" />
+<img width="380" height="676" alt="image" src="https://github.com/user-attachments/assets/e1606a53-20de-41f2-b6de-a2bd6a8afa81" />
+
 <img width="378" height="673" alt="image" src="https://github.com/user-attachments/assets/4f7c3e47-cbd9-4f5a-9c36-260fb6f5649d" />
 <img width="377" height="674" alt="image" src="https://github.com/user-attachments/assets/5e96a7d3-03d5-4ed2-a0a4-1bf50d1b6068" />
 
