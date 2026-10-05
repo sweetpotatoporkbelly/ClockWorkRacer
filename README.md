@@ -1,6 +1,6 @@
 ## 태엽 레이서 소개 영상
 - [유튜브 영상 링크](https://youtu.be/F05No69Qmz0)
-
+- [![텍스트](https://img.youtube.com/vi/F05No69Qmz0/0.jpg)](https://youtu.be/F05No69Qmz0)
 ## 제작 일지
 |날짜|개발내용|
 | --- | --- |
